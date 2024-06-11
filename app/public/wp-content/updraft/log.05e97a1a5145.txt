@@ -1,0 +1,483 @@
+0000.001 (0) Opened log file at time: Sat, 25 May 2024 22:13:03 +0000 on http://linguistic-academy
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.3 PHP: 8.1.23 (cgi-fcgi, Windows NT DESKTOP-PRLQO2N 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.4M | 12M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 25592.1 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.024 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (fd) time to 2024-05-25 22:13:03
+0000.039 (0) Semaphore lock (fd) complete
+0000.050 (0) Backup run: resumption=0, nonce=05e97a1a5145, file_nonce=05e97a1a5145 begun at=1716675183 (0s ago), job type=backup
+0000.056 (0) Scheduling a resumption (1) after 300 seconds (1716675483) in case this run gets aborted
+0000.067 (0) Checking if we have a zip executable available
+0000.076 (0) Creation of backups of directories: beginning
+0000.091 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.315 (0) Total entities for the zip file: 1585 directories, 7655 files (0 skipped as non-modified), 163.1 MB
+0005.332 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.573 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 100 files added (on-disk size: 284.5 KB)
+0005.692 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 200 files added (on-disk size: 284.5 KB)
+0005.784 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 300 files added (on-disk size: 284.5 KB)
+0005.863 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 400 files added (on-disk size: 284.5 KB)
+0005.935 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 500 files added (on-disk size: 284.5 KB)
+0005.997 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 7655 files batched, 596 (597) added so far); re-opening (prior size: 284.5 KB)
+0020.105 (0) A useful amount of data was added after this amount of zip processing: 14.7 s (normalised: 14.6 s, rate: 1753.6 KB/s)
+0020.143 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 600 files added (on-disk size: 5290.8 KB)
+0020.233 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 700 files added (on-disk size: 5290.8 KB)
+0020.323 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 800 files added (on-disk size: 5290.8 KB)
+0020.422 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 900 files added (on-disk size: 5290.8 KB)
+0020.513 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1000 files added (on-disk size: 5290.8 KB)
+0020.596 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1100 files added (on-disk size: 5290.8 KB)
+0020.681 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1200 files added (on-disk size: 5290.8 KB)
+0020.758 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1300 files added (on-disk size: 5290.8 KB)
+0020.864 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1400 files added (on-disk size: 5290.8 KB)
+0021.011 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1500 files added (on-disk size: 5290.8 KB)
+0021.055 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 7655 files batched, 941 (1538) added so far); re-opening (prior size: 5290.8 KB)
+0049.788 (0) A useful amount of data was added after this amount of zip processing: 30.4 s (normalised: 30.4 s, rate: 842.1 KB/s)
+0049.887 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1600 files added (on-disk size: 14038.5 KB)
+0049.971 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1700 files added (on-disk size: 14038.5 KB)
+0050.038 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1800 files added (on-disk size: 14038.5 KB)
+0050.104 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 1900 files added (on-disk size: 14038.5 KB)
+0050.178 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2000 files added (on-disk size: 14038.5 KB)
+0050.249 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2100 files added (on-disk size: 14038.5 KB)
+0050.330 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2200 files added (on-disk size: 14038.5 KB)
+0050.415 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2300 files added (on-disk size: 14038.5 KB)
+0050.493 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2400 files added (on-disk size: 14038.5 KB)
+0050.552 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2500 files added (on-disk size: 14038.5 KB)
+0050.585 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.9 MB, 7655 files batched, 1001 (2539) added so far); re-opening (prior size: 14038.5 KB)
+0082.011 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2600 files added (on-disk size: 20147 KB)
+0082.118 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2700 files added (on-disk size: 20147 KB)
+0082.208 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2800 files added (on-disk size: 20147 KB)
+0082.320 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 2900 files added (on-disk size: 20147 KB)
+0082.425 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3000 files added (on-disk size: 20147 KB)
+0082.529 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3100 files added (on-disk size: 20147 KB)
+0082.637 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3200 files added (on-disk size: 20147 KB)
+0082.759 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3300 files added (on-disk size: 20147 KB)
+0082.967 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3400 files added (on-disk size: 20147 KB)
+0082.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 7655 files batched, 869 (3408) added so far); re-opening (prior size: 20147 KB)
+0126.310 (0) A useful amount of data was added after this amount of zip processing: 44.9 s (normalised: 44.8 s, rate: 572 KB/s)
+0126.412 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3500 files added (on-disk size: 29072.5 KB)
+0126.476 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3600 files added (on-disk size: 29072.5 KB)
+0126.562 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3700 files added (on-disk size: 29072.5 KB)
+0126.638 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3800 files added (on-disk size: 29072.5 KB)
+0126.717 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 3900 files added (on-disk size: 29072.5 KB)
+0126.779 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4000 files added (on-disk size: 29072.5 KB)
+0126.849 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4100 files added (on-disk size: 29072.5 KB)
+0126.917 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4200 files added (on-disk size: 29072.5 KB)
+0126.983 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4300 files added (on-disk size: 29072.5 KB)
+0127.041 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4400 files added (on-disk size: 29072.5 KB)
+0127.050 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.7 MB, 7655 files batched, 1001 (4409) added so far); re-opening (prior size: 29072.5 KB)
+0159.291 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4500 files added (on-disk size: 36290.2 KB)
+0159.358 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4600 files added (on-disk size: 36290.2 KB)
+0159.425 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4700 files added (on-disk size: 36290.2 KB)
+0159.499 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4800 files added (on-disk size: 36290.2 KB)
+0159.606 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 4900 files added (on-disk size: 36290.2 KB)
+0159.757 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5000 files added (on-disk size: 36290.2 KB)
+0159.879 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5100 files added (on-disk size: 36290.2 KB)
+0159.978 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5200 files added (on-disk size: 36290.2 KB)
+0160.092 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5300 files added (on-disk size: 36290.2 KB)
+0160.203 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5400 files added (on-disk size: 36290.2 KB)
+0160.214 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.1 MB, 7655 files batched, 1001 (5410) added so far); re-opening (prior size: 36290.2 KB)
+0194.263 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5500 files added (on-disk size: 41319.8 KB)
+0194.383 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5600 files added (on-disk size: 41319.8 KB)
+0194.472 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5700 files added (on-disk size: 41319.8 KB)
+0194.588 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5800 files added (on-disk size: 41319.8 KB)
+0194.675 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 5900 files added (on-disk size: 41319.8 KB)
+0194.755 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6000 files added (on-disk size: 41319.8 KB)
+0194.832 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6100 files added (on-disk size: 41319.8 KB)
+0194.905 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6200 files added (on-disk size: 41319.8 KB)
+0194.984 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6300 files added (on-disk size: 41319.8 KB)
+0195.055 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6400 files added (on-disk size: 41319.8 KB)
+0195.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.5 MB, 7655 files batched, 1001 (6411) added so far); re-opening (prior size: 41319.8 KB)
+0227.899 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6500 files added (on-disk size: 46017.4 KB)
+0228.106 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6600 files added (on-disk size: 46017.4 KB)
+0228.294 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6700 files added (on-disk size: 46017.4 KB)
+0228.500 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6800 files added (on-disk size: 46017.4 KB)
+0228.704 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 6900 files added (on-disk size: 46017.4 KB)
+0228.955 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7000 files added (on-disk size: 46017.4 KB)
+0229.156 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7100 files added (on-disk size: 46017.4 KB)
+0229.371 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7200 files added (on-disk size: 46017.4 KB)
+0229.579 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7300 files added (on-disk size: 46017.4 KB)
+0229.799 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7400 files added (on-disk size: 46017.4 KB)
+0229.828 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.7 MB, 7655 files batched, 1001 (7412) added so far); re-opening (prior size: 46017.4 KB)
+0272.381 (0) The time we have been running (272.4) is approaching the resumption interval (300) - increasing resumption interval to 303
+0272.390 (0) The scheduled resumption is within 45 seconds - will reschedule
+0272.397 (0) Rescheduling resumption 1: moving to 348 seconds from now (1716675804)
+0272.411 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 303 + 45 = 348
+0272.639 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7500 files added (on-disk size: 49628.8 KB)
+0272.775 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.tmp: 7600 files added (on-disk size: 49628.8 KB)
+0282.161 (0) Creating zip file manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.list-temp.tmp)
+0282.232 (0) Successfully created zip file manifest (size: 648273)
+0283.352 (0) Created plugins zip (0) - 49929.9 KB in 283.2 s (176.3 KB/s) (sha1: 75df5b00023f41b4714ae9e2a82e2ed77fc56cfe, sha256: 2af8582e82bb33764921c2fe6703e87d3fb114bec8298a722c6055b5bb6c7218)
+0283.382 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0283.389 (0) No remote despatch: user chose no remote backup service
+0283.392 (0) Recording as successfully uploaded: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip
+0283.398 (0) Deleting zip manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip.list.tmp)
+0283.411 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0283.415 (0) Number of backup sets in history: 1; groups (db): 1
+0283.422 (0) Examining (for databases) backup set with group_id=0, nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0283.425 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0283.425 (0) Number of backup sets in history: 1; groups (files): 1
+0283.428 (0) Examining (for files) backup set with nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0283.428 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0283.428 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0283.428 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0283.428 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0283.428 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0283.431 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0283.456 (0) Beginning creation of dump of themes (split every: 400 MB)
+0285.421 (0) Total entities for the zip file: 294 directories, 1779 files (0 skipped as non-modified), 21.6 MB
+0285.577 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0285.726 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0285.864 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0285.991 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0286.177 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0286.327 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0286.388 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.8 MB, 638 (638) files added so far); re-opening (prior size: 0 KB)
+0311.410 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 700 files added (on-disk size: 2801.3 KB)
+0311.591 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 800 files added (on-disk size: 2801.3 KB)
+0311.714 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 900 files added (on-disk size: 2801.3 KB)
+0311.838 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1000 files added (on-disk size: 2801.3 KB)
+0311.991 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1100 files added (on-disk size: 2801.3 KB)
+0312.135 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1200 files added (on-disk size: 2801.3 KB)
+0312.274 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1300 files added (on-disk size: 2801.3 KB)
+0312.396 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1400 files added (on-disk size: 2801.3 KB)
+0312.577 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1500 files added (on-disk size: 2801.3 KB)
+0312.712 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1600 files added (on-disk size: 2801.3 KB)
+0312.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.3 MB, 1779 files batched, 1001 (1639) added so far); re-opening (prior size: 2801.3 KB)
+0337.898 (0) The time we have been running (337.9) is approaching the resumption interval (348) - increasing resumption interval to 368
+0338.040 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.tmp: 1700 files added (on-disk size: 8758.8 KB)
+0342.382 (0) The time we have been running (342.4) is approaching the resumption interval (368) - increasing resumption interval to 373
+0342.451 (0) Creating zip file manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.list-temp.tmp)
+0342.478 (0) Successfully created zip file manifest (size: 135557)
+0342.887 (0) Created themes zip (0) - 14660.6 KB in 59.4 s (246.7 KB/s) (sha1: f1ff122f5e0ac6b1496dbef519a31ffd742d0157, sha256: 6ffcdb9d7a7eef472de2e065e0ee68e3952d38f04731776a8b3a57f96a6ae67a)
+0342.908 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0342.910 (0) No remote despatch: user chose no remote backup service
+0342.914 (0) Recording as successfully uploaded: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip
+0342.923 (0) Deleting zip manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip.list.tmp)
+0342.933 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0342.937 (0) Number of backup sets in history: 1; groups (db): 1
+0342.940 (0) Examining (for databases) backup set with group_id=0, nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0342.943 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0342.943 (0) Number of backup sets in history: 1; groups (files): 1
+0342.947 (0) Examining (for files) backup set with nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0342.947 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0342.947 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0342.947 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0342.947 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0342.947 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0342.951 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0342.972 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0342.975 (0) Looking for candidates to backup in: C:\Users\Stefan\Local Sites\skola-stranih-jezika\app\public/wp-content/uploads
+0342.979 (0) finding files: 2024: adding to list (1)
+0342.984 (0) finding files: ac_assets: adding to list (2)
+0342.988 (0) finding files: blocksy: adding to list (3)
+0342.992 (0) finding files: elementor: adding to list (4)
+0342.997 (0) finding files: essential-addons-elementor: adding to list (5)
+0343.002 (0) finding files: unlimited_elements_cache: adding to list (6)
+0343.005 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0343.385 (0) Total entities for the zip file: 20 directories, 308 files (0 skipped as non-modified), 103.7 MB
+0343.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 308 files batched, 76 (76) added so far); re-opening (prior size: 0 KB)
+0343.901 (0) The time we have been running (343.9) is approaching the resumption interval (373) - increasing resumption interval to 374
+0343.910 (0) A useful amount of data was added after this amount of zip processing: 1.5 s (normalised: 1.5 s, rate: 17036.1 KB/s)
+0343.920 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.5228021144867, normalised_time=1.5026942127742, max_time=343.91442894936, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0344.015 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip.tmp: 100 files added (on-disk size: 25958.4 KB)
+0344.186 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip.tmp: 200 files added (on-disk size: 25958.4 KB)
+0344.305 (0) Zip: setCompressionName failed on: uploads/elementor/thumbs/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling-scaled-qolkj0i7mnvyovc0bo6f5b4391isoa5zphskbtelb8.jpg
+0344.309 (0) Zip: setCompressionName failed on: uploads/elementor/thumbs/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling-scaled-qolkj0i7mnwxh2taozxlne13wkvxuaj04f4vrui1oo.jpg
+0344.314 (0) Zip: setCompressionName failed on: uploads/elementor/thumbs/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling-scaled-qolkj0igit1l6choy3ahgf64lb764kg13hzm09zc40.jpg
+0344.326 (0) Zip: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip.tmp: 300 files added (on-disk size: 25958.4 KB)
+0346.435 (0) The time we have been running (346.4) is approaching the resumption interval (374) - increasing resumption interval to 377
+0346.446 (0) Creating zip file manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip.list-temp.tmp)
+0346.455 (0) Successfully created zip file manifest (size: 23295)
+0348.720 (0) Created uploads zip (0) - 103560.8 KB in 5.7 s (18167.5 KB/s) (sha1: ced31f211b2fd049bfaaf9716fd277c5681628f1, sha256: cb6164ef66dbb54d901d50be01f1c8ce72660badb6c6b3c75ed168daf77ba71c)
+0348.737 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0348.740 (0) No remote despatch: user chose no remote backup service
+0348.744 (0) Recording as successfully uploaded: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip
+0348.752 (0) Deleting zip manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip.list.tmp)
+0348.759 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0348.764 (0) Number of backup sets in history: 1; groups (db): 1
+0348.769 (0) Examining (for databases) backup set with group_id=0, nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0348.772 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0348.772 (0) Number of backup sets in history: 1; groups (files): 1
+0348.775 (0) Examining (for files) backup set with nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0348.775 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0348.775 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0348.775 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0348.775 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0348.775 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0348.780 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0348.797 (0) No backup of mu-plugins: excluded by user's options
+0348.805 (0) Beginning backup of other directories found in the content directory (index: 0)
+0348.810 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0348.814 (0) Looking for candidates to backup in: C:\Users\Stefan\Local Sites\skola-stranih-jezika\app\public/wp-content
+0348.819 (0) finding files: index.php: adding to list (1)
+0348.822 (0) finding files: plugins: skipping: this is the plugins directory
+0348.824 (0) finding files: themes: skipping: this is the themes directory
+0348.828 (0) finding files: updraft: skipping: this is the updraft directory
+0348.832 (0) finding files: upgrade: skipping: excluded by options
+0348.835 (0) finding files: uploads: skipping: this is the uploads directory
+0348.851 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0348.877 (0) The time we have been running (348.9) is approaching the resumption interval (377) - increasing resumption interval to 379
+0348.920 (0) Creating zip file manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-others.zip.list-temp.tmp)
+0348.925 (0) Successfully created zip file manifest (size: 43)
+0348.950 (0) Created others zip (0) - 0.1 KB in 0.1 s (1.4 KB/s) (sha1: f7a2584358a0c2a342857ab1daf212d9665682a2, sha256: 18df3aeb04df3b8787049d096ce0834aca41b3231b71d792dddbd962a8f2cb27)
+0348.969 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0348.973 (0) No remote despatch: user chose no remote backup service
+0348.980 (0) Recording as successfully uploaded: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-others.zip
+0348.989 (0) Deleting zip manifest (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-others.zip.list.tmp)
+0349.000 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0349.005 (0) Number of backup sets in history: 1; groups (db): 1
+0349.009 (0) Examining (for databases) backup set with group_id=0, nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0349.009 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0349.009 (0) Number of backup sets in history: 1; groups (files): 1
+0349.014 (0) Examining (for files) backup set with nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0349.014 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0349.014 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0349.014 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0349.014 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0349.014 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0349.019 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0349.054 (0) Saving backup status to database (elements: 8)
+0349.067 (0) Beginning creation of database dump (WordPress DB)
+0349.071 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0349.158 (0) Table wp_options: Total expected rows (via COUNT): 314
+0349.162 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.336 (0) Table wp_options: Rows added in this batch (next record: 2202): 310 (uncompressed bytes in this segment=2490796) in 0.22 seconds
+0349.358 (0) The time we have been running (349.3) is approaching the resumption interval (379) - increasing resumption interval to 380
+0349.378 (0) Table wp_options: finishing file(s) (2, 455.1 KB)
+0349.402 (0) Table wp_users: Total expected rows (via COUNT): 1
+0349.406 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.416 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1388) in 0.02 seconds
+0349.437 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0349.456 (0) Table wp_usermeta: Total expected rows (via COUNT): 50
+0349.459 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.470 (0) Table wp_usermeta: Rows added in this batch (next record: 51): 50 (uncompressed bytes in this segment=5537) in 0.02 seconds
+0349.492 (0) Table wp_usermeta: finishing file(s) (2, 2.6 KB)
+0349.515 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 1
+0349.517 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.525 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 307): 1 (uncompressed bytes in this segment=1915) in 0.02 seconds
+0349.552 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0349.568 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0349.575 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0349.598 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0349.612 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 1
+0349.617 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.626 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=689) in 0.02 seconds
+0349.645 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0349.668 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 3
+0349.671 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.677 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1096) in 0.01 seconds
+0349.703 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0349.725 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0349.735 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.02 seconds
+0349.766 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0349.789 (0) Table wp_comments: Total expected rows (via COUNT): 56
+0349.792 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0349.807 (0) Table wp_comments: Rows added in this batch (next record: 57): 56 (uncompressed bytes in this segment=25773) in 0.02 seconds
+0349.835 (0) Table wp_comments: finishing file(s) (2, 2.5 KB)
+0349.858 (0) Table wp_links: Total expected rows (via COUNT): 0
+0349.871 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.02 seconds
+0349.897 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0350.282 (0) Table wp_postmeta: Total expected rows (approximate): 5733
+0351.372 (0) Table wp_postmeta: Rows added in this batch (next record: 8334): 5997 (uncompressed bytes in this segment=17561825) in 1.46 seconds
+0351.397 (0) The time we have been running (351.4) is approaching the resumption interval (380) - increasing resumption interval to 382
+0351.413 (0) Table wp_postmeta: finishing file(s) (2, 1421.6 KB)
+0351.614 (0) Table wp_posts: Total expected rows (via COUNT): 867
+0352.046 (0) Table wp_posts: Rows added in this batch (next record: 1129): 867 (uncompressed bytes in this segment=8937566) in 0.62 seconds
+0352.071 (0) The time we have been running (352.1) is approaching the resumption interval (382) - increasing resumption interval to 383
+0352.099 (0) Table wp_posts: finishing file(s) (2, 239.7 KB)
+0352.125 (0) Table wp_term_relationships: Total expected rows (approximate): 28
+0352.139 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 33 (uncompressed bytes in this segment=1143) in 0.02 seconds
+0352.169 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0352.200 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 7
+0352.204 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.215 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 9): 7 (uncompressed bytes in this segment=1156) in 0.03 seconds
+0352.243 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0352.272 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0352.281 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.02 seconds
+0352.311 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0352.332 (0) Table wp_terms: Total expected rows (via COUNT): 7
+0352.335 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.347 (0) Table wp_terms: Rows added in this batch (next record: 9): 7 (uncompressed bytes in this segment=943) in 0.02 seconds
+0352.369 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0352.389 (0) Table wp_addonlibrary_addons: Total expected rows (via COUNT): 3
+0352.392 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.417 (0) Table wp_addonlibrary_addons: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=256441) in 0.03 seconds
+0352.441 (0) Table wp_addonlibrary_addons: finishing file(s) (2, 25.1 KB)
+0352.459 (0) Table wp_addonlibrary_categories: Total expected rows (via COUNT): 2
+0352.464 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.468 (0) Table wp_addonlibrary_categories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=985) in 0.01 seconds
+0352.490 (0) Table wp_addonlibrary_categories: finishing file(s) (2, 0.5 KB)
+0352.507 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0352.517 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=529) in 0.01 seconds
+0352.537 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0352.563 (0) Table wp_ff_scheduled_actions: Total expected rows (via COUNT): 0
+0352.568 (0) Table wp_ff_scheduled_actions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1068) in 0.02 seconds
+0352.598 (0) Table wp_ff_scheduled_actions: finishing file(s) (2, 0.4 KB)
+0352.624 (0) Table wp_fluentform_entry_details: Total expected rows (via COUNT): 10
+0352.630 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.639 (0) Table wp_fluentform_entry_details: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1326) in 0.03 seconds
+0352.667 (0) Table wp_fluentform_entry_details: finishing file(s) (2, 0.5 KB)
+0352.689 (0) Table wp_fluentform_form_analytics: Total expected rows (via COUNT): 0
+0352.700 (0) Table wp_fluentform_form_analytics: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1062) in 0.02 seconds
+0352.723 (0) Table wp_fluentform_form_analytics: finishing file(s) (2, 0.4 KB)
+0352.748 (0) Table wp_fluentform_form_meta: Total expected rows (via COUNT): 10
+0352.754 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.765 (0) Table wp_fluentform_form_meta: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=4976) in 0.03 seconds
+0352.800 (0) Table wp_fluentform_form_meta: finishing file(s) (2, 1.9 KB)
+0352.828 (0) Table wp_fluentform_forms: Total expected rows (via COUNT): 2
+0352.833 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.837 (0) Table wp_fluentform_forms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=8099) in 0.02 seconds
+0352.868 (0) Table wp_fluentform_forms: finishing file(s) (2, 1.8 KB)
+0352.896 (0) Table wp_fluentform_logs: Total expected rows (via COUNT): 0
+0352.905 (0) Table wp_fluentform_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=914) in 0.02 seconds
+0352.932 (0) Table wp_fluentform_logs: finishing file(s) (2, 0.4 KB)
+0352.956 (0) Table wp_fluentform_submission_meta: Total expected rows (via COUNT): 4
+0352.959 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0352.970 (0) Table wp_fluentform_submission_meta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1533) in 0.02 seconds
+0353.000 (0) Table wp_fluentform_submission_meta: finishing file(s) (2, 0.6 KB)
+0353.023 (0) Table wp_fluentform_submissions: Total expected rows (via COUNT): 2
+0353.027 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0353.033 (0) Table wp_fluentform_submissions: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2668) in 0.02 seconds
+0353.057 (0) The time we have been running (353) is approaching the resumption interval (383) - increasing resumption interval to 384
+0353.085 (0) Table wp_fluentform_submissions: finishing file(s) (2, 0.9 KB)
+0353.117 (0) Table wp_frm_fields: Total expected rows (via COUNT): 5
+0353.120 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0353.125 (0) Table wp_frm_fields: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=6046) in 0.02 seconds
+0353.155 (0) Table wp_frm_fields: finishing file(s) (2, 1.1 KB)
+0353.182 (0) Table wp_frm_forms: Total expected rows (via COUNT): 1
+0353.186 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0353.191 (0) Table wp_frm_forms: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2504) in 0.02 seconds
+0353.220 (0) Table wp_frm_forms: finishing file(s) (2, 1.1 KB)
+0353.247 (0) Table wp_frm_item_metas: Total expected rows (via COUNT): 0
+0353.256 (0) Table wp_frm_item_metas: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=699) in 0.02 seconds
+0353.287 (0) Table wp_frm_item_metas: finishing file(s) (2, 0.4 KB)
+0353.307 (0) Table wp_frm_items: Total expected rows (via COUNT): 0
+0353.313 (0) Table wp_frm_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1160) in 0.01 seconds
+0353.335 (0) Table wp_frm_items: finishing file(s) (2, 0.5 KB)
+0353.364 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 1
+0353.367 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0353.377 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=4346) in 0.03 seconds
+0353.405 (0) Table wp_yoast_indexable: finishing file(s) (2, 1.2 KB)
+0353.422 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0353.433 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=750) in 0.01 seconds
+0353.456 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0353.474 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0353.478 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0353.488 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1265) in 0.02 seconds
+0353.511 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0353.536 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0353.546 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=858) in 0.01 seconds
+0353.572 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0353.593 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 0
+0353.599 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=981) in 0.01 seconds
+0353.620 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.4 KB)
+0353.624 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Stefan\Local Sites\skola-stranih-jezika\app\public/wp-content/updraft/backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db.gz (line 1925, C:\Users\Stefan\Local Sites\skola-stranih-jezika\app\public\wp-content\plugins\updraftplus\backup.php)
+0353.633 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_options.table.tmpr2203.gz (1/36/fopen): adding to final database dump
+0353.668 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_options.table.gz (2/36/fopen): adding to final database dump
+0353.672 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_users.table.tmpr2.gz (3/36/fopen): adding to final database dump
+0353.676 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_users.table.gz (4/36/fopen): adding to final database dump
+0353.683 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_usermeta.table.tmpr52.gz (5/36/fopen): adding to final database dump
+0353.688 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_usermeta.table.gz (6/36/fopen): adding to final database dump
+0353.692 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_actions.table.tmpr308.gz (7/36/fopen): adding to final database dump
+0353.698 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_actions.table.gz (8/36/fopen): adding to final database dump
+0353.702 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/36/fopen): adding to final database dump
+0353.707 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_claims.table.gz (10/36/fopen): adding to final database dump
+0353.710 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_groups.table.tmpr2.gz (11/36/fopen): adding to final database dump
+0353.717 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_groups.table.gz (12/36/fopen): adding to final database dump
+0353.721 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_logs.table.tmpr4.gz (13/36/fopen): adding to final database dump
+0353.726 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_actionscheduler_logs.table.gz (14/36/fopen): adding to final database dump
+0353.732 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_commentmeta.table.tmpr0.gz (15/36/fopen): adding to final database dump
+0353.736 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_commentmeta.table.gz (16/36/fopen): adding to final database dump
+0353.741 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_comments.table.tmpr58.gz (17/36/fopen): adding to final database dump
+0353.747 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_comments.table.gz (18/36/fopen): adding to final database dump
+0353.751 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_links.table.tmpr0.gz (19/36/fopen): adding to final database dump
+0353.756 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_links.table.gz (20/36/fopen): adding to final database dump
+0353.759 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_postmeta.table.tmpr8335.gz (21/36/fopen): adding to final database dump
+0353.848 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_postmeta.table.gz (22/36/fopen): adding to final database dump
+0353.852 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_posts.table.tmpr1130.gz (23/36/fopen): adding to final database dump
+0353.875 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_posts.table.gz (24/36/fopen): adding to final database dump
+0353.881 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_term_relationships.table.tmpr100001.gz (25/36/fopen): adding to final database dump
+0353.885 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_term_relationships.table.gz (26/36/fopen): adding to final database dump
+0353.889 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_term_taxonomy.table.tmpr10.gz (27/36/fopen): adding to final database dump
+0353.893 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_term_taxonomy.table.gz (28/36/fopen): adding to final database dump
+0353.899 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_termmeta.table.tmpr0.gz (29/36/fopen): adding to final database dump
+0353.904 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_termmeta.table.gz (30/36/fopen): adding to final database dump
+0353.908 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_terms.table.tmpr10.gz (31/36/fopen): adding to final database dump
+0353.914 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_terms.table.gz (32/36/fopen): adding to final database dump
+0353.918 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_addonlibrary_addons.table.tmpr4.gz (33/36/fopen): adding to final database dump
+0353.923 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_addonlibrary_addons.table.gz (34/36/fopen): adding to final database dump
+0353.929 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_addonlibrary_categories.table.tmpr3.gz (35/36/fopen): adding to final database dump
+0353.934 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_addonlibrary_categories.table.gz (36/36/fopen): adding to final database dump
+0353.938 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_e_events.table.tmpr0.gz (37/36/fopen): adding to final database dump
+0353.942 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_e_events.table.gz (38/36/fopen): adding to final database dump
+0353.949 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_ff_scheduled_actions.table.tmpr0.gz (39/36/fopen): adding to final database dump
+0353.953 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_ff_scheduled_actions.table.gz (40/36/fopen): adding to final database dump
+0353.957 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_entry_details.table.tmpr11.gz (41/36/fopen): adding to final database dump
+0353.964 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_entry_details.table.gz (42/36/fopen): adding to final database dump
+0353.970 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_form_analytics.table.tmpr0.gz (43/36/fopen): adding to final database dump
+0353.974 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_form_analytics.table.gz (44/36/fopen): adding to final database dump
+0353.980 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_form_meta.table.tmpr11.gz (45/36/fopen): adding to final database dump
+0353.983 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_form_meta.table.gz (46/36/fopen): adding to final database dump
+0353.987 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_forms.table.tmpr3.gz (47/36/fopen): adding to final database dump
+0353.991 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_forms.table.gz (48/36/fopen): adding to final database dump
+0353.995 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_logs.table.tmpr0.gz (49/36/fopen): adding to final database dump
+0354.000 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_logs.table.gz (50/36/fopen): adding to final database dump
+0354.004 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_submission_meta.table.tmpr5.gz (51/36/fopen): adding to final database dump
+0354.008 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_submission_meta.table.gz (52/36/fopen): adding to final database dump
+0354.013 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_submissions.table.tmpr3.gz (53/36/fopen): adding to final database dump
+0354.016 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_fluentform_submissions.table.gz (54/36/fopen): adding to final database dump
+0354.020 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_fields.table.tmpr6.gz (55/36/fopen): adding to final database dump
+0354.023 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_fields.table.gz (56/36/fopen): adding to final database dump
+0354.027 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_forms.table.tmpr2.gz (57/36/fopen): adding to final database dump
+0354.032 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_forms.table.gz (58/36/fopen): adding to final database dump
+0354.037 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_item_metas.table.tmpr0.gz (59/36/fopen): adding to final database dump
+0354.041 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_item_metas.table.gz (60/36/fopen): adding to final database dump
+0354.046 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_items.table.tmpr0.gz (61/36/fopen): adding to final database dump
+0354.050 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_frm_items.table.gz (62/36/fopen): adding to final database dump
+0354.054 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_indexable.table.tmpr2.gz (63/36/fopen): adding to final database dump
+0354.058 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_indexable.table.gz (64/36/fopen): adding to final database dump
+0354.062 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_indexable_hierarchy.table.tmpr1.gz (65/36/fopen): adding to final database dump
+0354.068 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_indexable_hierarchy.table.gz (66/36/fopen): adding to final database dump
+0354.071 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_migrations.table.tmpr25.gz (67/36/fopen): adding to final database dump
+0354.075 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_migrations.table.gz (68/36/fopen): adding to final database dump
+0354.080 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_primary_term.table.tmpr0.gz (69/36/fopen): adding to final database dump
+0354.083 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_primary_term.table.gz (70/36/fopen): adding to final database dump
+0354.087 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_seo_links.table.tmpr0.gz (71/36/fopen): adding to final database dump
+0354.090 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db-table-wp_yoast_seo_links.table.gz (72/36/fopen): adding to final database dump
+0354.105 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db.gz: finished writing out complete database file (2165.7 KB)
+0354.205 (0) Total database tables backed up: 36 (backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db.gz, size: 2217819, sha1: 72729a1966fc9732208ebeb634716d2240f05829, sha256: 69e8d7c366ed98ad1efacd14d38b3f532cd741fec26ac10b43cdabbd0a747979)
+0354.225 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-plugins.zip: plugins: This file has already been successfully uploaded
+0354.230 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-themes.zip: themes: This file has already been successfully uploaded
+0354.233 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-uploads.zip: uploads: This file has already been successfully uploaded
+0354.237 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-others.zip: others: This file has already been successfully uploaded
+0354.240 (0) backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db.gz: db: This file has not yet been successfully uploaded: will queue
+0354.244 (0) Saving backup history. Total backup size: 166.3 MB
+0354.270 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0354.282 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0354.286 (0) No remote despatch: user chose no remote backup service
+0354.289 (0) Recording as successfully uploaded: backup_2024-05-25-2213_Linguistic_Academy_05e97a1a5145-db.gz
+0354.301 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0354.305 (0) Number of backup sets in history: 2; groups (db): 1
+0354.308 (0) Examining (for databases) backup set with group_id=0, nonce=05e97a1a5145, datestamp=1716675183 (May 25 2024 22:13:03)
+0354.313 (0) This backup set is the backup set just made, so will not be deleted.
+0354.313 (0) Examining (for databases) backup set with group_id=0, nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0354.313 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0354.313 (0) Number of backup sets in history: 2; groups (files): 1
+0354.318 (0) Examining (for files) backup set with nonce=05e97a1a5145, datestamp=1716675183 (May 25 2024 22:13:03)
+0354.318 (0) This backup set is the backup set just made, so will not be deleted.
+0354.322 (0) This backup set is the backup set just made, so will not be deleted.
+0354.322 (0) This backup set is the backup set just made, so will not be deleted.
+0354.322 (0) This backup set is the backup set just made, so will not be deleted.
+0354.322 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0354.325 (0) Examining (for files) backup set with nonce=42041c9821e3, datestamp=1716674907 (May 25 2024 22:08:27)
+0354.325 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0354.325 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0354.325 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0354.325 (0) This backup set (1716674907) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0354.325 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0354.325 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0354.336 (0) Resume backup (05e97a1a5145, 0): finish run
+0354.347 (0) Decremented the semaphore (fd) by 1
+0354.353 (0) Semaphore (fd) unlocked
+0354.356 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0354.371 (0) No email will/can be sent - the user has not configured an email address.
+0354.374 (0) The backup succeeded and is now complete
